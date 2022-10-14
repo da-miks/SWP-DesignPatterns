@@ -17,6 +17,7 @@ namespace Singleton._2.Eagerly
         private static readonly LoadBalancer instance = new();
 
         private readonly List<Server> servers;
+        private readonly Random random = new();
 
         // Note: Constructor is 'private'
         private LoadBalancer()
@@ -24,11 +25,23 @@ namespace Singleton._2.Eagerly
             servers = new()
             {
                 new("Server1","120.14.220.18"),
-                new("Server2","120.14.220.18"),
-                new("Server3","120.14.220.18"),
-                new("Server4","120.14.220.18"),
-                new("Server5","120.14.220.18")
+                new("Server2","120.14.220.19"),
+                new("Server3","120.14.220.20"),
+                new("Server4","120.14.220.21"),
+                new("Server5","120.14.220.22")
             };
+        }
+        public static LoadBalancer GetLoadBalancer()
+        {
+            return instance;
+        }
+        // Simple, but effective load balancer
+        public Server NextServer
+        {
+            get
+            {
+                return servers[random.Next(servers.Count)];
+            }
         }
     }
 

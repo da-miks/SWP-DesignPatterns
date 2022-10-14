@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\bin\Debug\net6.0\Singleton.2.Eagerly.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\bin\Debug\net6.0\Singleton.2.Eagerly.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\bin\Debug\net6.0\Singleton.2.Eagerly.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\bin\Debug\net6.0\Singleton.2.Eagerly.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\bin\Debug\net6.0\Singleton.2.Eagerly.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\refint\Singleton.2.Eagerly.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\Singleton.2.Eagerly.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Singleton.2.Eagerly\obj\Debug\net6.0\ref\Singleton.2.Eagerly.dll
