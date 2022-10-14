@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\bin\Debug\net6.0\Adapter.1.Duck.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\bin\Debug\net6.0\Adapter.1.Duck.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\bin\Debug\net6.0\Adapter.1.Duck.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\bin\Debug\net6.0\Adapter.1.Duck.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\bin\Debug\net6.0\Adapter.1.Duck.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\refint\Adapter.1.Duck.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\Adapter.1.Duck.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapter.1.Duck\obj\Debug\net6.0\ref\Adapter.1.Duck.dll

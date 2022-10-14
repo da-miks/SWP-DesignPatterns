@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Singleton.1.Lazy\\Singleton.1.Lazy.csproj",
-      "projectName": "Singleton.1.Lazy",
-      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Singleton.1.Lazy\\Singleton.1.Lazy.csproj",
+      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\Adapter.1.Duck.csproj",
+      "projectName": "Adapter.1.Duck",
+      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\Adapter.1.Duck.csproj",
       "packagesPath": "C:\\Users\\mikak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Singleton.1.Lazy\\obj\\",
+      "outputPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
