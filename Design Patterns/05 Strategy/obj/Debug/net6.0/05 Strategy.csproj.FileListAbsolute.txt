@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\bin\Debug\net6.0\05 Strategy.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\bin\Debug\net6.0\05 Strategy.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\bin\Debug\net6.0\05 Strategy.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\bin\Debug\net6.0\05 Strategy.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\bin\Debug\net6.0\05 Strategy.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\refint\05 Strategy.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\05 Strategy.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\05 Strategy\obj\Debug\net6.0\ref\05 Strategy.dll
