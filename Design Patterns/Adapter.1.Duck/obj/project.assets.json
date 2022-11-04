@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\Adapter.1.Duck.csproj",
-      "projectName": "Adapter.1.Duck",
-      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\Adapter.1.Duck.csproj",
+      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\03 Adapter.1.Duck.csproj",
+      "projectName": "03 Adapter.1.Duck",
+      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\03 Adapter.1.Duck.csproj",
       "packagesPath": "C:\\Users\\mikak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter.1.Duck\\obj\\",
       "projectStyle": "PackageReference",

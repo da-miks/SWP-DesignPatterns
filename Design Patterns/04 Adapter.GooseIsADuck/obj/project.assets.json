@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Singleton.2.Eagerly\\02 Singleton.2.Eagerly.csproj",
-      "projectName": "02 Singleton.2.Eagerly",
-      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Singleton.2.Eagerly\\02 Singleton.2.Eagerly.csproj",
+      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\04 Adapter.GooseIsADuck\\04 Adapter.GooseIsADuck.csproj",
+      "projectName": "04 Adapter.GooseIsADuck",
+      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\04 Adapter.GooseIsADuck\\04 Adapter.GooseIsADuck.csproj",
       "packagesPath": "C:\\Users\\mikak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Singleton.2.Eagerly\\obj\\",
+      "outputPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\04 Adapter.GooseIsADuck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
