@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\bin\Debug\net7.0\07 Factory Document Generator.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\bin\Debug\net7.0\07 Factory Document Generator.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\bin\Debug\net7.0\07 Factory Document Generator.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\bin\Debug\net7.0\07 Factory Document Generator.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\bin\Debug\net7.0\07 Factory Document Generator.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\refint\07 Factory Document Generator.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\07 Factory Document Generator.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\07 Factory Document Generator\obj\Debug\net7.0\ref\07 Factory Document Generator.dll

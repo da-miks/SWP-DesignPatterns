@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\bin\Debug\net7.0\09 Factory Duckfactory.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\bin\Debug\net7.0\09 Factory Duckfactory.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\bin\Debug\net7.0\09 Factory Duckfactory.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\bin\Debug\net7.0\09 Factory Duckfactory.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\bin\Debug\net7.0\09 Factory Duckfactory.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\refint\09 Factory Duckfactory.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\09 Factory Duckfactory.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\10 Factory Duckfactory\obj\Debug\net7.0\ref\09 Factory Duckfactory.dll
