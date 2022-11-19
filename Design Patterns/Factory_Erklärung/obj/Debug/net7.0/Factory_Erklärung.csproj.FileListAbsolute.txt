@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\bin\Debug\net7.0\Factory_Erklärung.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\bin\Debug\net7.0\Factory_Erklärung.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\bin\Debug\net7.0\Factory_Erklärung.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\bin\Debug\net7.0\Factory_Erklärung.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\bin\Debug\net7.0\Factory_Erklärung.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\refint\Factory_Erklärung.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\Factory_Erklärung.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Factory_Erklärung\obj\Debug\net7.0\ref\Factory_Erklärung.dll

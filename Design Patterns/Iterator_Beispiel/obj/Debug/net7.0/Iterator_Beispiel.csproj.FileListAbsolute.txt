@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\bin\Debug\net7.0\Iterator_Beispiel.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\bin\Debug\net7.0\Iterator_Beispiel.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\bin\Debug\net7.0\Iterator_Beispiel.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\bin\Debug\net7.0\Iterator_Beispiel.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\bin\Debug\net7.0\Iterator_Beispiel.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\refint\Iterator_Beispiel.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\Iterator_Beispiel.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Iterator_Beispiel\obj\Debug\net7.0\ref\Iterator_Beispiel.dll

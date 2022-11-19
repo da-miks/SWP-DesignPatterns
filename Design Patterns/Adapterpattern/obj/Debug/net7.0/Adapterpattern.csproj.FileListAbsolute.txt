@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\bin\Debug\net7.0\Adapterpattern.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\bin\Debug\net7.0\Adapterpattern.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\bin\Debug\net7.0\Adapterpattern.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\bin\Debug\net7.0\Adapterpattern.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\bin\Debug\net7.0\Adapterpattern.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\refint\Adapterpattern.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\Adapterpattern.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Adapterpattern\obj\Debug\net7.0\ref\Adapterpattern.dll

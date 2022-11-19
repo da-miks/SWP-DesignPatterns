@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Factory_Erklärung/1.0.0": {
+        "runtime": {
+          "Factory_Erklärung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factory_Erklärung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

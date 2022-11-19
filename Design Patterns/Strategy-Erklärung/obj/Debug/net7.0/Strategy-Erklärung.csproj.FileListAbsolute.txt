@@ -1,0 +1,15 @@
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\bin\Debug\net7.0\Strategy-Erklärung.exe
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\bin\Debug\net7.0\Strategy-Erklärung.deps.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\bin\Debug\net7.0\Strategy-Erklärung.runtimeconfig.json
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\bin\Debug\net7.0\Strategy-Erklärung.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\bin\Debug\net7.0\Strategy-Erklärung.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.csproj.AssemblyReference.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.AssemblyInfoInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.AssemblyInfo.cs
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.csproj.CoreCompileInputs.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\refint\Strategy-Erklärung.dll
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.pdb
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\Strategy-Erklärung.genruntimeconfig.cache
+C:\Users\mikak\OneDrive\Desktop\Schule\5. Klasse\SWP - Design Patterns\SWP-DesignPatterns\Design Patterns\Strategy-Erklärung\obj\Debug\net7.0\ref\Strategy-Erklärung.dll

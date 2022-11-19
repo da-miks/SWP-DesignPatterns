@@ -13,5 +13,3 @@ Console.WriteLine(myContext == UserContextEarly.Instance);
  * bei der frühen Intialisierung wird das Objekt gleich bei der Deklaration der Instanz initialisiert
  * Multi-Threading wird ein Problem
 */
-
-UserContextEarly_ myContextearly = UserContextEarly_.Instance;

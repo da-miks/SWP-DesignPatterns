@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter_Erklärung\\Adapter_Erklärung.csproj",
-      "projectName": "Adapter_Erklärung",
-      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter_Erklärung\\Adapter_Erklärung.csproj",
+      "projectUniqueName": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter_Erklärung\\Adapter_Beispiel.csproj",
+      "projectName": "Adapter_Beispiel",
+      "projectPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter_Erklärung\\Adapter_Beispiel.csproj",
       "packagesPath": "C:\\Users\\mikak\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mikak\\OneDrive\\Desktop\\Schule\\5. Klasse\\SWP - Design Patterns\\SWP-DesignPatterns\\Design Patterns\\Adapter_Erklärung\\obj\\",
       "projectStyle": "PackageReference",
